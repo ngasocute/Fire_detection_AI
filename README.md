@@ -64,3 +64,7 @@ Click below to watch the video demonstration of the trained model at work. <br>
  
  1. Joseph Redmon and Ali Farhadi, YOLOv3: An Incremental Improvement <br>
  <a href="https://arxiv.org/abs/1804.02767" >https://arxiv.org/abs/1804.02767</a> <br><br>
+
+ Yolov3
+ https://viso.ai/deep-learning/yolov3-overview/
+ 
