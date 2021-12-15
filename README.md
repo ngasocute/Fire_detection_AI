@@ -69,3 +69,7 @@ Click below to watch the video demonstration of the trained model at work. <br>
  https://viso.ai/deep-learning/yolov3-overview/
  
  https://github.com/OlafenwaMoses/ImageAI
+ 
+ https://arxiv.org/pdf/1804.02767.pdf?
+ 
+ https://link.springer.com/article/10.1007/s11554-020-01044-0#Sec6
