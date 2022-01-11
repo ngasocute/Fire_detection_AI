@@ -73,3 +73,5 @@ Click below to watch the video demonstration of the trained model at work. <br>
  https://arxiv.org/pdf/1804.02767.pdf?
  
  https://link.springer.com/article/10.1007/s11554-020-01044-0#Sec6
+ 
+ https://www.researchgate.net/profile/Fayadh-Alenezi/publication/355664038_Attention_Based_CNN_model_for_Fire_Detection_and_Localization_in_Real-World_Images/links/617a79cc0be8ec17a93bb800/Attention-Based-CNN-model-for-Fire-Detection-and-Localization-in-Real-World-Images.pdf
