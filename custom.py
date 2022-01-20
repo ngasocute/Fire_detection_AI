@@ -1,5 +1,8 @@
 import os
+from re import I
 import cv2
+from cv2 import (VideoCapture)
+from cv2 import (waitKey)
 from imageai.Detection.Custom import (
     CustomVideoObjectDetection,
     CustomObjectDetection

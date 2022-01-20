@@ -2,6 +2,7 @@ from imageai.Detection.Custom import CustomObjectDetection, CustomVideoObjectDet
 import os
 import cv2
 
+
 execution_path = os.getcwd()
 
 
@@ -41,7 +42,7 @@ def detect_from_video():
     input_video = cv2.VideoCapture(0)
 
     #detected_video_path = detector.detectObjectsFromVideo(input_file_path=os.path.join(execution_path, "Fire.mp4"), frames_per_second=30, output_file_path=os.path.join(execution_path, "video1-detected"), minimum_percentage_probability=40, log_progress=True )
-    detector.detectObjectsFromVideo(camera_input=input_video, frames_per_second=120, output_file_path=os.path.join(execution_path, "video1-detected"), minimum_percentage_probability=40, log_progress=True )
+    detector.detectObjectsFromVideo(camera_input=input_video, frames_per_second=20, output_file_path=os.path.join(execution_path, "video1-detected"), minimum_percentage_probability=40, log_progress=True )
     
 if __name__ == "__main__":
     detect_from_video()
