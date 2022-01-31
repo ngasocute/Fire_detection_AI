@@ -5,9 +5,7 @@ FireNet is an artificial intelligence project for real-time fire detection.
 <hr>
 <b>FireNet</b> is a real-time fire detection project containing an annotated dataset, pre-trained models and inference codes, all created to ensure that machine learning systems can be trained
  to detect fires instantly and eliminate false alerts. This is part of <a href="https://deepquestai.com" >DeepQuest AI</a>'s to train machine learning systems to 
-  perceive, understand and act accordingly in solving problems in any environment they are deployed. <br><br>
-
-  This is the first release of the FireNet. It contains an annotated dataset of 502 images splitted into 412 images for training and 90 images for validation. 
+  perceive, understand and act accordingly in solving problems in any environment they are deployed. <br><br> 
   
   <br>
 
