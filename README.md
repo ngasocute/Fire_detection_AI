@@ -19,7 +19,7 @@ FireNet is an artificial intelligence project for real-time fire detection.
   and perform detection in mages and videos using a pre-trained model (also using <b>YOLOv3</b>) provided in the release section of this repository.
   The python codebase is contained in the <b><a href="fire_net.py" >fire_net.py</a></b> file and the detection configuration JSON file for detection is also provided the 
   <b><a href="detection_config.json" >detection_config.json</a></b>. The pretrained <b>YOLOv3</b> model is available for download via the link below. <br><br> 
-  <b><a href="https://github.com/OlafenwaMoses/FireNET/releases/download/v1.0/detection_model-ex-33--loss-4.97.h5" >https://github.com/OlafenwaMoses/FireNET/releases/download/v1.0/detection_model-ex-33--loss-4.97.h5</a></b><br>
+  <b><a href="https://github.com/OlafenwaMoses/FireNET/releases/download/v1.0/detection_model-ex-33--loss-4.97.h5" 
   <br>
 <br>
 Running the experiment or detection requires that you have **Tensorflow**, and **Keras**, **OpenCV** and **ImageAI** installed. You can install this dependencies via the commands below.
@@ -33,11 +33,6 @@ Running the experiment or detection requires that you have **Tensorflow**, and *
    <span><b>- ImageAI 2.0.3  </b>  
    <span>      <pre>pip3 install imageai --upgrade </pre></span> <br><br> <br>
 
-
-
-<b>>>> Video & Prediction Results</b> <br><br>
-Click below to watch the video demonstration of the trained model at work. <br>
-<a href="https://www.youtube.com/watch?v=ts3yxfNrDnY" ><img src="images/video.jpg" /></a>
 <br><br><br><br>
   <img src="images/1-detected.jpg" />
 
@@ -48,8 +43,6 @@ Click below to watch the video demonstration of the trained model at work. <br>
 
 
 <br> <br>
-
-<img src="images/3-detected.jpg" style="width: 650px;" />
 
 
 
@@ -65,13 +58,4 @@ Click below to watch the video demonstration of the trained model at work. <br>
  1. Joseph Redmon and Ali Farhadi, YOLOv3: An Incremental Improvement <br>
  <a href="https://arxiv.org/abs/1804.02767" >https://arxiv.org/abs/1804.02767</a> <br><br>
 
- Yolov3
- https://viso.ai/deep-learning/yolov3-overview/
- 
- https://github.com/OlafenwaMoses/ImageAI
- 
- https://arxiv.org/pdf/1804.02767.pdf?
- 
- https://link.springer.com/article/10.1007/s11554-020-01044-0#Sec6
- 
- https://www.researchgate.net/profile/Fayadh-Alenezi/publication/355664038_Attention_Based_CNN_model_for_Fire_Detection_and_Localization_in_Real-World_Images/links/617a79cc0be8ec17a93bb800/Attention-Based-CNN-model-for-Fire-Detection-and-Localization-in-Real-World-Images.pdf
+
