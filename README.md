@@ -24,6 +24,8 @@ Running the experiment or detection requires that you have **Tensorflow**, and *
   
    <span><b>- ImageAI 2.0.3  </b>  
    <span>      <pre>pip3 install imageai --upgrade </pre></span> <br><br> <br>
+  <span><b>- Run project:</b></span> <br>
+   <span>python fire_net.py</span><br> <br>
 
 <br><br><br><br>
   <img src="images/1-detected.jpg" />
