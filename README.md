@@ -15,7 +15,6 @@ FireNet is an artificial intelligence project for real-time fire detection.
   and perform detection in mages and videos using a pre-trained model (also using <b>YOLOv3</b>) provided in the release section of this repository.
   The python codebase is contained in the <b><a href="fire_net.py" >fire_net.py</a></b> file and the detection configuration JSON file for detection is also provided the 
   <b><a href="detection_config.json" >detection_config.json</a></b>. The pretrained <b>YOLOv3</b> model is available for download via the link below. <br><br> 
-  <b><a href="https://github.com/OlafenwaMoses/FireNET/releases/download/v1.0/detection_model-ex-33--loss-4.97.h5" 
   <br>
 <br>
 Running the experiment or detection requires that you have **Tensorflow**, and **Keras**, **OpenCV** and **ImageAI** installed. You can install this dependencies via the commands below.
@@ -31,23 +30,5 @@ Running the experiment or detection requires that you have **Tensorflow**, and *
 
 <br><br><br><br>
   <img src="images/1-detected.jpg" />
-
-
-
-<br> <br>
-
-
-
-<br>
-
-
-
-<br>
-
-<h3><b><u>References</u></b></h3>
-
- 
- 1. Joseph Redmon and Ali Farhadi, YOLOv3: An Incremental Improvement <br>
- <a href="https://arxiv.org/abs/1804.02767" >https://arxiv.org/abs/1804.02767</a> <br><br>
 
 
